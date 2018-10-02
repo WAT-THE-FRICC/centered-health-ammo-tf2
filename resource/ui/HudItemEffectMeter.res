@@ -12,7 +12,7 @@
 "wide" "f0"
 "tall" "480"
 "MeterFG" "White"
-"MeterBG" "QHUDChargeMeterBG"
+"MeterBG" "0 0 0 170"
 }
 "ItemEffectMeterBG" 
 {
@@ -70,8 +70,8 @@
 "visible" "1"
 "enabled" "1"
 "textAlignment" "north-west"
-"bgcolor_override" "QHUDChargeMeterBG"
-"fgcolor_override" "QHUDChargeMeterFG"
+"bgcolor_override" "0 0 0 170"
+"fgcolor_override" "255 255 255 255"
 "dulltext" "0"
 "brighttext" "0"
 "xpos_minmode" "c-30"
