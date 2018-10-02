@@ -73,7 +73,7 @@
 		"fieldName"		"ResistIconAnchor"
 		"xpos"			"c90"//70
 		"xpos_minmode"	"c75"
-		"ypos"			"325"//310
+		"ypos"			"315"//310
 		"ypos_minmode"	"380"
 		"wide"			"30"
 		"tall"			"30"
