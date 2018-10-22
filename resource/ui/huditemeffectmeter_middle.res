@@ -10,7 +10,7 @@
 "wide" "f0"
 "tall" "480"
 "MeterFG" "White"
-"MeterBG" "0 0 0 170"
+"MeterBG" "QHUDChargeMeterBG"
 }
 "ItemEffectMeterBG" 
 {
@@ -50,7 +50,7 @@
 "brighttext" "0"
 "font" "TFFontSmall"
 "xpos_minmode" "c-30"
-"ypos_minmode" "393"
+"ypos_minmode" "388"
 "wide_minmode" "60"
 }
 "ItemEffectMeter" 
@@ -68,12 +68,12 @@
 "visible" "1"
 "enabled" "1"
 "textAlignment" "north-west"
-"bgcolor_override" "0 0 0 170"
+"bgcolor_override" "QHUDChargeMeterBG"
 "fgcolor_override" "QHUDChargeMeterFG"
 "dulltext" "0"
 "brighttext" "0"
 "xpos_minmode" "c-30"
-"ypos_minmode" "400"
+"ypos_minmode" "395"
 "wide_minmode" "60"
 }
 }
